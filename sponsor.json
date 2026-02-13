@@ -3,12 +3,13 @@
     "id": "1",
     "name": "Lasoftsolution",
     "desc": "Sconto 10% sui nostri servizi.",
-    "link": "https://lasoftsolution.com"
+    "link": "https://lasoftsolution.com",
+    "logo": "https://www.lasoftsolution.com/wp-content/uploads/2023/05/1img-1024x576.png"
   },
   {
     "id": "2",
     "name": "Mfsoftsolution",
     "desc": "App WhereIsMyObject per gestire i tuoi oggetti",
-    "link": "https://www.whereismyobject.com/"
+    "link": "https://www.whereismyobject.com/wp-content/uploads/2025/11/LogoWIMOufficiale-150x150.jpg"
   }
 ]
