@@ -7,10 +7,10 @@
     "logo": "https://www.lasoftsolution.com/wp-content/uploads/2023/05/1img-1024x576.png"
   },
   {
-    "id": "2",
-    "name": "Mfsoftsolution",
-    "desc": "App WhereIsMyObject per gestire i tuoi oggetti",
-    "link": "https://www.whereismyobject.com/",
-    "logo": "https://www.whereismyobject.com/wp-content/uploads/2025/11/LogoWIMOufficiale-150x150.jpg"
-  }
+  "id": "2",
+  "name": "Mfsoftsolution",
+  "desc": "App WhereIsMyObject per gestire i tuoi oggetti",
+  "link": "https://whereismyobject.com",
+  "logo": "https://www.whereismyobject.com/wp-content/uploads/2025/11/LogoWIMOufficiale-150x150.jpg"
+}
 ]
